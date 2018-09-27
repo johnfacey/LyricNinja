@@ -1,0 +1,2 @@
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt

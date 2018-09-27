@@ -1,0 +1,6 @@
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Release\LyricNinja.exe
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Release\LyricNinja.pdb
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\obj\Xbox 360\Release\LyricNinja.exe
+C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\obj\Xbox 360\Release\LyricNinja.pdb

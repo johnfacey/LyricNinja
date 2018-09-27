@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gong1.wav</Source>
+      <Name>gong1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\gong1.xnb</Output>
+      <Time>2009-01-21T02:24:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>punch1.wav</Source>
+      <Name>punch1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\punch1.xnb</Output>
+      <Time>2009-01-21T02:27:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Kootenay.spritefont</Source>
+      <Name>Kootenay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\Kootenay.xnb</Output>
+      <Time>2009-01-21T02:08:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>achievement.png</Source>
+      <Name>achievement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\achievement.xnb</Output>
+      <Time>2009-01-24T17:00:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>leftstance.PNG</Source>
+      <Name>leftstance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\leftstance.xnb</Output>
+      <Time>2009-01-26T20:50:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>left_still.png</Source>
+      <Name>left_still</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\left_still.xnb</Output>
+      <Time>2009-01-24T18:03:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ninjafront.png</Source>
+      <Name>ninjafront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\ninjafront.xnb</Output>
+      <Time>2009-01-24T18:10:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>YinYang.PNG</Source>
+      <Name>YinYang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\YinYang.xnb</Output>
+      <Time>2009-01-26T19:34:15-06:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaLyric100.png</Source>
+      <Name>NinjaLyric100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\NinjaLyric100.xnb</Output>
+      <Time>2009-01-18T15:14:26-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\John\Documents\Visual Studio 2008\Projects\LyricNinja\LyricNinja\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-09T03:22:26.715-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
